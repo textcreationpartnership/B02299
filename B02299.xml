@@ -1,0 +1,453 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The commission for taking subscriptions to the national land-bank</title>
+            <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02299</idno>
+            <idno type="STC">Wing C5551A</idno>
+            <idno type="STC">ESTC R233579</idno>
+            <idno type="EEBO-CITATION">52528778</idno>
+            <idno type="OCLC">ocm 52528778</idno>
+            <idno type="VID">178744</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02299)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178744)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2769:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The commission for taking subscriptions to the national land-bank</title>
+                  <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+                  <author>William, III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>With marginal notes.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Land Bank (London, England)</term>
+               <term>Land banks --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="commission">
+            <pb n="1" facs="tcp:178744:1"/>
+            <head>THE COMMISSION FOR TAKING SUBSCRIPTIONS TO THE National Land-Bank.</head>
+            <p>
+               <note place="margin">Commiſſioners Names.</note> 
+               <hi>WILLIAM</hi> the Third, by the Grace of God King of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi> To Our Right Truſty and Well-beloved <hi>Thomas</hi> Lord <hi>Jermyn,</hi> Our Right Truſty and Right Well-beloved Councellor <hi>Thomas</hi> Lord <hi>Coningsby,</hi> Our Truſty and Well-beloved the Lord <hi>James Ruſſel; Goodwin Whar<g ref="char:EOLhyphen"/>ton</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Henry Paget</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Robert Cecill</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Sidney Wortley</hi> alias <hi>Mountagu</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Charles Mountagu</hi> of <abbr>Eſq</abbr> Sir <hi>William Langham</hi> Bar. Sir <hi>Walter Young</hi> Bar. Sir <hi>Henry Aſhurſt</hi> Bar. Sir <hi>Richard Atkins</hi> Bar. Sir <hi>Richard Blackham</hi> Bar. Sir <hi>Tho. Pope Blount</hi> Bar. Sir <hi>Joſiah Child</hi> Bar. Sir <hi>Robert Cotton</hi> Bar. Sir <hi>Heale Hooke</hi> Bar. Sir <hi>Henry Ho<g ref="char:EOLhyphen"/>bart</hi> Bar. Sir <hi>John Mordant</hi> Bar. Sir <hi>Walter St. Johns</hi> Bar. Sir <hi>Baſil Dixwell</hi> Bar. Sir <hi>Peter Paravacine</hi> Kt. Sir <hi>Humphery Edwin</hi> Kt. Sir <hi>Rowland Aynſworth</hi> Kt. Sir <hi>Owen Buckingham</hi> Kt. Sir <hi>John Banks</hi> Kt. Sir <hi>Benjamin Bathurſt</hi> Kt. Sir <hi>Edward Clarke</hi> Kt. Sir <hi>Thomas Cooke</hi> Kt. Sir <hi>Samuel Daſhwood</hi> Kt. Sir <hi>Thomas Davall,</hi> Kt. Sir <hi>John Eyles</hi> Kt. Sir <hi>William Foreſter</hi> Kt. Sir <hi>John Fleet</hi> Kt. Sir <hi>Edward Farmer</hi> Kt. Sir <hi>Joſeph Herne</hi> Kt. Sir <hi>Chriſtopher Hales</hi> Kt. Sir <hi>Robert Jefferies</hi> Kt. Sir <hi>Thomas Lane</hi> Kt. Sir <hi>John Moore</hi> Kt. Sir <hi>Tho. Mompeſſon</hi> Kt. Sir <hi>William Pritchard</hi> Kt. Sir <hi>Gabriel Roberts</hi> Kt. Sir <hi>Leonard Robinſon</hi> Kt. Sir <hi>Tho. Stamp</hi> Kt. Sir <hi>Jeremy Sambrooke</hi> Kt. Sir <hi>Joſeph Tyley</hi> Kt. Sir <hi>Peter Vandeputt</hi> Kt. Sir <hi>Thomas Meares</hi> Kt. Sir <hi>Edward Wills</hi> Kt. Sir <hi>Thomas Rawlinſon</hi> Kt. Sir <hi>Edmond Wiſeman</hi> Kt. Sir <hi>Francis Child</hi> Kt. Sir <hi>Charles Hedges</hi> Kt. Sir <hi>Peter Daniel</hi> Kt. Sir <hi>Benjamin Newland</hi> Kt. Sir <hi>Henry Johnſon</hi> Kt. Sir <hi>Godfery Copley</hi> Kt. <hi>Robert Auſtin</hi> Senior, <abbr>Eſq</abbr> 
+               <hi>Robert Auſtin</hi> Junior, <abbr>Eſq</abbr> 
+               <hi>John Archer</hi> Merchant, <hi>John Arnold</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Mordecai Abbot</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>William Aſpin</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Aſgil</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Tho. Andrews</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Gabriel Armiger</hi> 
+               <abbr>Eſq</abbr> Capt. <hi>Jonathan Andrews, John Aviolle</hi> Merch. <hi>Iſaac Aviolle</hi> Merch. <hi>John Billers</hi> Merch. <hi>James Ball</hi> Merch. Col. <hi>Robert Byerly, David d'Bur<g ref="char:EOLhyphen"/>ry</hi> Merch. <hi>James Boddington</hi> Merch. <hi>John Brown</hi> Merch. <hi>Arthur Bailey</hi> Merch. <hi>Theophilus Boughey</hi> Merch. <hi>John Scroop</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Borrett</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>George Bohun</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Ro<g ref="char:EOLhyphen"/>bert Breedon</hi> 
+               <abbr>Eſq</abbr> Dr. <hi>Nicholas Barbon, James des Boverie</hi> Merch. <hi>John Bellamy</hi> Merch.
+<pb n="2" facs="tcp:178744:2"/>
+               <hi>John Briſcoc</hi> Merch. <hi>John Browning</hi> Gent. <hi>Peter Burrel</hi> Merch. <hi>Tho Boone</hi> Merch. <hi>Robert Brown</hi> Merch. <hi>Francis Boynton</hi> Merch. <hi>William Baber</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Ralph Bucknal</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>George Boddington</hi> Merch. <hi>John Blackler</hi> Merch. <hi>Francis Buzelin</hi> Merch. <hi>David de la Bretonniere</hi> Merch. <hi>Nicholas Carey</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Arthur Chamney</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>William Coward</hi> Merch. <hi>Richard Carey</hi> Merchant, <hi>Awnſham Churchill</hi> Merchant, <hi>Stephen Cooke</hi> Merchant, <hi>Francis Chapman</hi> Gent. <hi>Tho. Coleby</hi> Senior Merchant, <hi>John Dutton Colt</hi> 
+               <abbr>Eſq</abbr> Capt. <hi>William Childe, Tho. Colſon</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Delow</hi> Merchant, <hi>Francis Daſhwood</hi> Merchant, <hi>Charles Dubois</hi> Merchant, <hi>Peter Delaune</hi> Merchant, <hi>Paul d'Aranda</hi> Mer<g ref="char:EOLhyphen"/>chant, <hi>Richard Dove</hi> Merchant, <hi>Abraham Dolins</hi> Merchant, <hi>Paul Darby</hi> Merchant, <hi>George Doddington</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Alvarez Mendez d'Coſta</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>William Cockram</hi> Merchant, <hi>John Cook</hi> Merchant, <hi>John Deagle</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Paul Docminique</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Richard Dalton</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Antho<g ref="char:EOLhyphen"/>ny Mendez d'Coſta</hi> Merchant, <hi>John Mendez d'Coſta</hi> Merchant, <hi>Jacob de Lilliers</hi> Mer<g ref="char:EOLhyphen"/>chant, <hi>Adam de Cardonnel</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Dennis Dutry</hi> Merchant, <hi>John Duboys</hi> Merchant, Capt. <hi>Robert Dorrel, Paul Dufoure</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Peter Deline</hi> Merchant, <hi>Francis Eyles</hi> Mer<g ref="char:EOLhyphen"/>chant, <hi>Barrington Eyton</hi> Merchant, <hi>John Evans</hi> Merchant, <hi>William Eaſt</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Hen<g ref="char:EOLhyphen"/>ry Eyre</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>William Ettrick</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Martin Folkes</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>William Faulkner</hi> Merchant, <hi>Andrew Franklyn</hi> Merchant, <hi>Samuel Foot</hi> Junior Merchant, <hi>Chriſtopher Fouler</hi> Mer<g ref="char:EOLhyphen"/>chant, <hi>Thomas Foley</hi> Senior <abbr>Eſq</abbr> 
+               <hi>Philip Foley</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Tho. Foley</hi> Junior <abbr>Eſq</abbr> 
+               <hi>William Fenwick</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>George Furnace</hi> Merch. <hi>Peter Fanſhaw</hi> Merch. <hi>Samuel Fuller</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Edward Fenwick</hi> Merch. <hi>Iſrael Feilding</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Mark Huggetan</hi> Merch. Serjeant <hi>Tho. Goodin, Tho. Glover</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Tho. Guy</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Thomas Gunſtone</hi> Merchant, <hi>James Green</hi> Merch <hi>Gabri<g ref="char:EOLhyphen"/>el Glover</hi> Merchant, <hi>Bartholo Gracedieu</hi> Merchant, <hi>Francis Gosfright</hi> Merchant, <hi>Al<g ref="char:EOLhyphen"/>min Garraway</hi> Merchant, <hi>Thomas Gratwick</hi> Merchant, Dr. <hi>William Gibbons, Benja<g ref="char:EOLhyphen"/>min Giles</hi> Merchant, <hi>George Greſham</hi> Merchant, <hi>Tho. Hodges</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Tho. Hall</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Peter Henriques</hi> Senior Merchant, <hi>Edmond Harriſon</hi> Merchant, <hi>Nathaniel Herne</hi> Merchant, <hi>Robert Heyſham</hi> Merchant, <hi>Joſeph Hoskinſtiles</hi> Merchant, <hi>Beddingfield Higham</hi> Merchant, <hi>John Hanger</hi> Merchant, <hi>Edward Haiſtwell</hi> Merchant, <hi>Thomas Hancock</hi> Merchant, Dr. <hi>Edward Hulſe, Lyonel Herne</hi> Merchant, <hi>Frederick Herne</hi> Mer<g ref="char:EOLhyphen"/>chant, <hi>Thomas Harley</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>William Hewer</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Charles Hooper</hi> Merchant, <hi>
+                  <g ref="char:V">Ʋ</g>rban Hall</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Nathaniel Horneby</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>George Hawes</hi> Merchant, <hi>Richard Harnage</hi> Mer<g ref="char:EOLhyphen"/>chant, <hi>Edward Harley</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>James Hooper</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Charles Herle</hi> Merchant, <hi>Hercules Horſey</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Ralph Hough</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Luke Hodges</hi> Merchant, <hi>Ebenezer Hall</hi> Merchant, <hi>John Hall</hi> Merchant, <hi>Daniel Haies</hi> Merchant, <hi>Robert Henly</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Harvey</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>James Hallet</hi> Goldſmith, <hi>Michael Hubart</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Jeffe<g ref="char:EOLhyphen"/>ry Jefferies</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Jefferies</hi> Merchant, <hi>George Juce</hi> Merchant, <hi>Henry Ireton</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Jackſon</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Peter Henriques</hi> Junior Merchant, <hi>Charles Hargrave</hi> Merchant, <hi>Henry Kiffin</hi> Merchant, <hi>Maurice Kendal</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Samuel Keckwich</hi> Merchant, <hi>William Lowndes</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Robert Leydal</hi> Merchant, <hi>John Love</hi> Merchant, <hi>James Lever</hi> Mer<g ref="char:EOLhyphen"/>chant, <hi>John Lethullier</hi> Merchant, <hi>Robert Lancaſhire</hi> Merchant, <hi>Edward Lloyd</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Joſeph Lane</hi> 
+               <abbr>Eſq</abbr> Dr. <hi>Fiſher Littleton, Thomas Lucas</hi> Merchant, <hi>Nehemiah Lyde</hi> Mer<g ref="char:EOLhyphen"/>chant, <hi>Peter Henriques Leferrer</hi> Merchant, <hi>Solomon d'Medina</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Morris</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Nichilas Mors</hi> Junior Merchant, <hi>Samuel Moyer</hi> Merchant, <hi>Samuel Mitchel</hi> Merchant, <hi>Ralph Marſhal</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Martyn</hi> Merchant, <hi>William Mead</hi> Merchant, <hi>Tho. Mulſo</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Arthur Moore</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>William Milman</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Richard Mead</hi> Merchant, <hi>James Miſſon</hi> Mer<g ref="char:EOLhyphen"/>chant, <hi>Charles Middleton</hi> Merchant, <hi>Anthony Meeke</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Nicholas Martin</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Charles Maſon</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>William Nichols</hi> Merchant, <hi>Thomas Nisbet</hi> Merchant, <hi>Francis Negus</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Hugh North</hi> Merchant, <hi>Michael Noble</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Richard Noys</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Thomas Owen</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Walter Overbury</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Samuel Onely</hi> Senior <abbr>Eſq</abbr> 
+               <hi>Samuel Powel</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Joſeph Paice</hi> Merchant, <hi>John Paſchall</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Pearſon</hi> Merchant, Colonel <hi>John Perry, Richard Petty</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Powell</hi> Merchant, <hi>George Paſke</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Packer</hi> 
+               <abbr>Eſq</abbr> Col. <hi>Pilkinton, Thomas Papillon</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Bartholowew Phillibert</hi> Merch. <hi>Tho. Radbord</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Gabriel Roberts</hi> Merch. <hi>Henry Renew</hi> Merch. <hi>Peter Renew</hi> Merch. <hi>Edward Richier</hi> Merch. <hi>Edward Ruge</hi> Merchant, Capt. <hi>Richard Rider, Samuel Read</hi> Merchant, <hi>Nicholas Richards</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Tho Rawlins</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Roydhouſe</hi> Merchant, Dr. <hi>Radcliffe, Tho Robin<g ref="char:EOLhyphen"/>ſon</hi> Merchant, Sir <hi>Iſaac Rebow</hi> Kt. <hi>Jacob Reynardon</hi> Merchant, <hi>Stephen Signiorett</hi> Mer<g ref="char:EOLhyphen"/>chant, <hi>Arthur Shellett</hi> Merchant, <hi>Thomas Skinner</hi> 
+               <abbr>Eſq</abbr> Dr. <hi>William Stokeham, John Sherbrooke</hi> Merchant, Capt. <hi>John Smith, John Sikes</hi> Merchant, <hi>John Skinner</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Arnold Squibb</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Edward Salloway</hi> Merchant, <hi>Ebenezer Sadler</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Thomas Sla<g ref="char:EOLhyphen"/>ter</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Thomas Sutton</hi> Merchant, <hi>John Smith</hi> Gent. <hi>Thomas Swinbourne</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Sam. Sheppard</hi> Merchant, <hi>William Sheppard</hi> Merchant, <hi>William Sedgwick</hi> Merchant, <hi>Ro<g ref="char:EOLhyphen"/>bert
+<pb n="3" facs="tcp:178744:2" rendition="simple:additions"/>Sanderſon</hi> Merchant, <hi>John Schoppins</hi> Merchant, <hi>Samuel Sale</hi> Merchant, <hi>Robert Stephens</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Paris Slaughter</hi> Merchant, <hi>Francis Tuſsen</hi> Junior <abbr>Eſq</abbr> 
+               <hi>Richard Tilden</hi> Merchant, <hi>John Trenchard</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Richard Trevor</hi> 
+               <abbr>Eſq</abbr> Major General <hi>Trelawny,</hi> Colonel <hi>Henry Trelawny, Joſeph Tompſon</hi> Merchant, <hi>Frederick Tilney</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Thomas Trench</hi> Merchant, <hi>Robert Tracy</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Tulley</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Francis Terrence</hi> Merchant, <hi>Thomas Taylor</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Dalby Thomas</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Nicholas Tourton</hi> Merchant, Mr. Protho<g ref="char:EOLhyphen"/>notary <hi>Tempeſt, Robert Thompſon</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Du Tilleux</hi> Merchant, <hi>Conſtantine Ver<g ref="char:EOLhyphen"/>natti</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Henry Vincent</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Leonard Weſſell</hi> Merchant, <hi>Joſeph Woolfe</hi> Merchant, <hi>William Withers</hi> Merchant, <hi>Samuel Wickens</hi> Merchant, <hi>Solloway Winnington</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Weſton</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Thomas Winford</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Baſill Wood</hi> Gent. <hi>Edward Wood<g ref="char:EOLhyphen"/>houſe</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Jaques Wiſeman</hi> Merchant, <hi>Thomas Williams</hi> Merchant, <hi>Iſaac Watling<g ref="char:EOLhyphen"/>ton</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Thomas Williamſon</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Walter Whitfeild</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Edmund Waller</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>William Young</hi> 
+               <abbr>Eſq</abbr> and <hi>Warwick Yard</hi> Merchant, Greeting,<note place="margin">Recital of the Act.</note> Whereas in and by an Act made in the late Seſſions of Parliament, Intituled, <hi>An Act for Continuing to His Majeſty certain Duties upon Salt, Glaſs Wares, Stone and Earthen Wares, and for Granting ſeveral Duties upon Tobacco Pipes, and other Earthen-Wares, for the Carrying on the War againſt</hi> France, <hi>and for Eſtabliſhing a</hi> Na<g ref="char:EOLhyphen"/>tional-Land-Bank, <hi>and for taking off the Duties upon Tunnage of Ships and upon Coals;</hi> It is Enacted (amongſt other things) That all and every the Rates and Duties in the ſaid Act mentioned ſhould be Continued, Raiſed, Levied, Collected, Anſwered and Paid unto Us, our Heirs and Succeſſors, in manner and form as in the ſaid Act is mentioned, into the Receipt of <hi>Exchequer,</hi> under certain Pe<g ref="char:EOLhyphen"/>nalties therein mentioned: And that all the ſaid Sums, by virtue of the ſaid Act, to be paid into the Receipt of <hi>Exchequer,</hi> ſhould be the Fund for the ſeveral and reſpective intents and Purpoſes in the ſaid Act expreſſed. And that year<g ref="char:EOLhyphen"/>ly, and every year, reckoning the Firſt Year to begin from the Seventeenth Day of <hi>May</hi> One thouſand ſix hundred ninety ſix, the full Sum of One hundred ſeventy nine thouſand four hundred and eighty Pounds, out of the Mo<g ref="char:EOLhyphen"/>neys to ariſe by the ſeveral Rates and Duties by the ſaid Act Granted and Continued, and to be brought into the Receipt of <hi>Exchequer</hi> as aforeſaid, ſhould be the whole and entire yearly Fund. And in caſe the ſaid Payments ſhould not amount to One hundred ſeventy nine thouſand four hundred and eighty Pounds <hi>per Annum,</hi> then the ſaid Payments, ſo far as they will extend, ſhould be part of the yearly Fund for and towards the anſwering and paying of the ſeveral yearly Sums in the ſaid Act mentioned.</p>
+            <p>And it is thereby further Enacted, That it ſhall and may be lawful to and for Us by Commiſſion under Our Great Seal of <hi>England,</hi> to Authorize and Ap<g ref="char:EOLhyphen"/>point any Number of Perſons to take and receive ſuch voluntary Subſcriptions as ſhall be made on or before the Firſt Day of <hi>Auguſt,</hi> One thouſand ſix hundred ninety ſix, by any Perſon or Perſons, Natives or Foreigners, Bodies Politick or Corporate (other than the Governor and Company of the <hi>Bank</hi> of <hi>England</hi>) for and towards the Raiſing and Paying into the Receipt of <hi>Exchequer</hi> the Sum of Five and twenty hundred and ſixty four thouſand Pounds: And that the yearly Sum of One hundred ſeventy nine thouſand four hundred and eighty Pounds ariſing by and out of the ſaid Duties and Impoſitions before mentioned, ſhall be applied, iſſued and directed, and is thereby appropriated to the Uſe and Advantage of ſuch Perſon or Perſons, Bodies Politick and Corporate, as ſhall make ſuch voluntary Subſcriptions and Payments their Executors, Adminiſtrators, Succeſſors and Aſſignes for ever, proportionable to the Subſcription of each Perſon or Body Politick ſo ſubſcribing the ſame.</p>
+            <p>
+               <hi>And it is thereby further Enacted,</hi> That the Commiſſioners of Our Treaſury, and the Under-Treaſurer of Our <hi>Exchequer</hi> now being, and the Lord High Treaſurer and Under Treaſurer, or Commiſſioners of the Treaſury for the time being, are thereby ſtrictly enjoined and required by virtue of the ſaid Act, and without any further or other Warrant to be ſued for, had or obtained from Us, Our Heirs or Succeſſors, to direct their Warrants yearly for the payment of the ſaid yearly Sum of One hundred ſeventy nine thouſand four hundred and eighty Pounds to the Contributors of the ſaid Sum of Five and twenty hundred and ſixty four thouſand Pounds, in manner and proportion in and by the ſaid Act directed and appointed. And the Auditor of the Receipt of <hi>Exchequer,</hi> and all other Officers of the <hi>Exchequer</hi> for the time being, are thereby directed and enjoined to iſſue the ſaid Moneys ſo ſet apart for the Uſes thereby directed
+<pb n="4" facs="tcp:178744:3"/>from time to time without any Fee or Reward, under ſuch Penalties as are by the ſaid Act to be inflicted. And it was thereby declared, That it ſhould be lawful for Us to Incorporate all and every the Subſcribers and Contributors, their Executors, Succeſſors and Aſſigns to be one Body Corporate and Politick, by the Name of the Governor and Company of the <hi>National Land-Bank,</hi> to have perpetual Succeſſion, and to have ſuch Capacities, Priviledges and Powers, and to be under ſuch Rules as are therein mentioned. And in caſe the whole Sum of Five and twenty hundred and ſixty four thouſand Pounds ſhall not be ad<g ref="char:EOLhyphen"/>vanced and paid into the ſaid Receipt of <hi>Exchequer</hi> before the firſt Day of <hi>Ja<g ref="char:EOLhyphen"/>nuary,</hi> which ſhall be in the year of our Lord One thouſand ſix hundred ninety ſix, that then the Subſcribers and Contributors for and towards raiſing the ſaid Five and twenty hundred and ſixty four thouſand Pounds, their Executors, Succeſſors and Aſſigns, ſhall only have and receive ſo much and ſuch part and proportion of the ſaid yearly Fund as ſhall be after the Rate of Seven Pounds <hi>per Cent. per annum,</hi> for ſuch Sum and Sums of Money as ſhall be ſo reſpectively paid and advanced: And that from and after the Granting the ſaid Letters Patents of Incorporation, the ſaid yearly Sum of One hundred ſeventy nine thouſand four hundred and eighty Pounds, or ſo much thereof as ſhall be pro<g ref="char:EOLhyphen"/>portionable to the ſeveral Sums of Money before that time advanced, or to be then afterwards advanced, before the ſaid Firſt Day of <hi>January</hi> One thouſand ſix hundred ninety ſix as aforeſaid, ſhall be paid and payable unto the ſaid Go<g ref="char:EOLhyphen"/>vernor and Company and their Succeſſors for ever <hi>in Truſt,</hi> in the Firſt Place, for paying and ſatisfying all Bills and other Charges which they ſhall from time to time charge thereupon under their Common Seal; and from and after Pay<g ref="char:EOLhyphen"/>ment of ſuch Bills and Charges then in Truſt for the ſeveral and reſpective Members of the ſaid Incorporation, according to the proportion of their ſeveral Stocks therein. And that the Intereſts and Stock of the particular Members of the ſaid Incorporation ſhall go to Executors and Adminiſtrators, and not to Heirs. and ſhall be Transferrable and Deviſable in ſuch manner as We ſhall direct in and by the ſaid Letters Patents, and not otherwiſe.</p>
+            <p>
+               <hi>And in the ſaid Act is contained a Proviſo,</hi> That in caſe the Sum of Five and twenty hundred and ſixty four thouſand Pounds, or a Moiety thereof ſhould not be Subſcribed on or before the Firſt Day or <hi>Auguſt,</hi> One thouſand for hundred ninety ſix, that then the Powers and Authorities in the ſaid Act for Erecting a Corporation as aforeſaid, ſhall ceaſe and determine: And in ſuch caſe ſo much of the ſaid yearly Sum of One hundred ſeventy nine thouſand four hundred and eighty Pounds as ſhall belong to the ſaid Subſcribers, according to the meaning of the ſaid Act, ſhall be transferrable by the reſpective Sub<g ref="char:EOLhyphen"/>ſcribers their reſpective Executors, Succeſſors or Aſſigns, to any Perſon or Per<g ref="char:EOLhyphen"/>ſons whatſoever, by any Writing or Writings under the Hand and Seal of the Perſon or Perſons transferring the ſame, atteſted by two or more credible Witneſſes, and entred within Twenty Days after the Sealing thereof, in a Book or Books to be for that purpoſe kept in the ſaid <hi>Exchequer</hi> by the Re<g ref="char:EOLhyphen"/>membrancer for the time being; (for the Entry whereof nothing ſhall be paid;) which Entry the ſaid Remembrancer is hereby required upon Requeſt to make.</p>
+            <p>
+               <note place="margin">Words of Com<g ref="char:EOLhyphen"/>miſſion.</note>And that every ſuch Subſcriber ſhall at the time of ſuch Subſcription, pay or cauſe to be paid unto the ſaid Commiſſioners one Fourth Part of his or her Sub<g ref="char:EOLhyphen"/>ſcription, and in Default thereof ſuch Subſcriptions ſhall be void, and that the Reſidue of the ſaid Subſcription Moneys ſhall be paid into the Receipt of our <hi>Exchequer,</hi> as we ſhall direct, before the Firſt Day of <hi>January,</hi> One thouſand ſix hundred ninety ſix; and in Default of ſuch Payments, that then the Fourth Part firſt paid as aforeſaid, ſhall be forfeited to, and for the Benefit of Us, Our Heirs and Succeſſors.</p>
+            <p>
+               <hi>Now know ye,</hi> That we being reſolved and determined, in caſe the ſaid Sum of Five and twenty hundred and ſixty four thouſand Pounds, or one Moiety thereof, ſhall be Subſcribed on or before the Firſt Day of <hi>Auguſt,</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred ninety ſix, to Grant and paſs our Royal Charter or Letters Patents under the Great Seal of <hi>England,</hi> for Erecting and Eſtabliſhing a Corpo<g ref="char:EOLhyphen"/>ration or Body Politick, to be called by the Name aforeſaid, and to have a perpetual Succeſſion with ſuch Powers and Priviledges as are preſcribed by the ſaid Act, and ſuch others as ſhall be Lawful and Reaſonable for Us to give and
+<pb n="5" facs="tcp:178744:3" rendition="simple:additions"/>grant, as well for the publick Good as for Our own Service, ſubject nevertheleſs to the Proviſo's, Reſtrictions and Rules in the ſaid Act of Parliament contain<g ref="char:EOLhyphen"/>ed, and repoſing eſpecial Truſt and Confidence in your Abilities, Faithfulneſs and Prudent Circumſpections in and for the performance of ſo much of this Af<g ref="char:EOLhyphen"/>fair as ſhall be committed to your Care and Charge, have Nominated, Conſtitu<g ref="char:EOLhyphen"/>ted Authorized, and Appointed, and by theſe Preſents for Us, Our Heirs and Suc<g ref="char:EOLhyphen"/>ceſſors do Nominate, Conſtitute, Authorize, and do Appoint you the ſaid <hi>Thomas</hi> Lord <hi>Jermyn, Thomas</hi> Lord <hi>Coningsby,</hi> Lord <hi>James Ruſſell, Goodwin Wharton, Henry Pagett, Robert Cecill, Sydney Wortley</hi> alias <hi>Mountagu, Charles Mountagu,</hi> Sir <hi>William Langham,</hi> Sir <hi>Walter Young,</hi> Sir <hi>Henry Aſhurſt,</hi> Sir <hi>Richard Atkins,</hi> Sir <hi>Richard Blackham,</hi> Sir <hi>Thomas Pope Blount,</hi> Sir <hi>Joſiah Child,</hi> Sir <hi>Robert Cotton,</hi> Sir <hi>Heale Hooke,</hi> Sir <hi>Henry Hobart,</hi> Sir <hi>John Mordant,</hi> Sir <hi>Walter St. Johns,</hi> Sir <hi>Baſil Dixwell,</hi> Sir <hi>Peter Paravacine,</hi> Sir <hi>Humphery Edwin,</hi> Sir <hi>Rowland Aynſworth,</hi> Sir <hi>Owen Buck<g ref="char:EOLhyphen"/>ingham,</hi> Sir <hi>John Banks,</hi> Sir <hi>Benjamin Bathurſt,</hi> Sir <hi>Edward Clarke,</hi> Sir <hi>Thomas Cooke,</hi> Sir <hi>Samuel Daſhwood,</hi> Sir <hi>Thomas Davall,</hi> Sir <hi>John Eyles,</hi> Sir <hi>William Foreſter,</hi> Sir <hi>John Fleet,</hi> Sir <hi>Edward Farmer,</hi> Sir <hi>Joſeph Herne,</hi> Sir <hi>Chriſtopher Hales,</hi> Sir <hi>Robert Jefferies,</hi> Sir <hi>Thomas Lane,</hi> Sir <hi>John Moore,</hi> Sir <hi>Tho. Mompeſſon,</hi> Sir <hi>William Pritchard,</hi> Sir <hi>Gabriel Roberts,</hi> Sir <hi>Leonard Robinſon,</hi> Sir <hi>Thomas Stamp,</hi> Sir <hi>Jeremy Sambrooke,</hi> Sir <hi>Joſeph Tyley,</hi> Sir <hi>Peter Vandeputt,</hi> Sir <hi>Thomas Meares,</hi> Sir <hi>Edward Wills,</hi> Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Rawlinſon,</hi> Sir <hi>Edmond Wiſeman,</hi> Sir <hi>Francis Child,</hi> Sir <hi>Charles Hedges,</hi> Sir <hi>Peter Daniel,</hi> Sir <hi>Benjamin Newland,</hi> Sir <hi>Henry Johnſon,</hi> Sir <hi>Godfrey Copley, Robert Auſtin</hi> Senior, <hi>Robert Auſtin</hi> Junior, <hi>John Archer, John Arnold, Mordecai Abbot, William Aſpin, John Aſgil, Thomas Andrews, Gabriel Armiger, Jonathan Andrews; John Aviolle, Iſaac Aviolle, John Billers, James Ball, Robert Byerly, David d' Burry; James Boddington, John Brown, Arthur Bailey, Theophilus Boughey, John Scroop; John Borrett, George Bohum, Robert Brown, Robert Breedon, Nicholas Barbon, James des Boverie, John Bellamy, John Briſcot, John Browning, Peter Burrel, Tho. Boone, Francis Boynton, William Baber, Ralph Backnal, George Boddington<g ref="char:punc">▪</g> John Blacklar, Francis Bazelin, David de la Bretonniere, Nicholas Carey, Arthur Chamney; William Coward, Richard Carey, Awnſham Churchill, Stephen Cooke, Francis Chapman, Thomas Colby</hi> Senior, <hi>Thomas Compere, Anthony Gracherode, John Churchill, John Dutton Colt, William Childe, Thomas Colſon, John Conyers, Thomas Coleby</hi> Junior, Sir <hi>Pary Cuſt, James Dewy, John Delow, Francis Daſhwood, Charles Dubois, Peter Delaune Paul d'Aranda, Richard Dove, Abraham Dolins, Paul Darby, George Doddington; Alvarez Mendez d'Coſta, William Cockram, John Cook, John Deagle. Paul Docmi<g ref="char:EOLhyphen"/>nique, Richard Dalton, Anthony Mendez d'Coſta, John Mendez d'Coſta, Jacob de Lilliers, Adam de Cardonnel, Dennis Dutry, John Duboys, Robert Dorrel, Paul Du<g ref="char:EOLhyphen"/>foure, Peter Deline, Francis Eyles, Barrington Eyton, John Evans, William Eaſt, Henry Eyre, William Ettrick, Martin Folkes, William Faulkner, Andrew Franklyn, Samuel Foot</hi> Junior, <hi>Chriſtopher Fouler, Thomas Fobey</hi> Senior, <hi>Philip Foley, Thomas Foley</hi> Junior, <hi>William Fenwick, George Furnace, Peter Fanſhaw, Samuel Fuller, Edward Fenwick, Iſrael Feilding, Mark Huggetan,</hi> Serjeant <hi>Tho. Goodin, Tho. Glover, Thomas Guy, Thomas Gunſtone, James Green, Gabriel Glover, Bartholo Gracedieu, Francis Goſ<g ref="char:EOLhyphen"/>fright, Alwin Garraway, Thomas Gratwick,</hi> Dr. <hi>William Gibbons, Benjamin Giles, George Greſham, Thomas Hodges, Thomas Hall, Peter Henriques</hi> Senior, <hi>Edmond Harriſon, Nathaniel Herne, Robert Heyſham, Joſeph Hoskinſtiles, Beddingfield Higham, John Hanger, Edward Haiſtwell, Thomas Hancock,</hi> Dr. <hi>Edward Hulſe, Lyonel Herne, Frederick Herne, Thomas Harley, William Hewer, Charles Hooper, <g ref="char:V">Ʋ</g>rban Hall, Na<g ref="char:EOLhyphen"/>thaniel Horneby, George Hawes, Richard Harnage, Edward Harley, James Hooper, Charles Herle, Hercules Horſey, Ralph Hough, Luke Hodges, Ebenezer Hall, John Hall, Daniel Haies, Robert Henly, John Harvey, James Hallet, Michael Hubart, Jeffery Jefferies, John Jefferies, George Juce, Henry Ireton, John Jackſon, Peter Hen<g ref="char:EOLhyphen"/>riques</hi> Junior, <hi>Charles Hargrave, Henry Kiffin, Maurice Kendal, Samuel Keckwich, William Lowndes, Robert Leydal, John Love, James Lever, John Lethullier, Robert Lancaſhire, Edward Lloyd, Joſeph Lane,</hi> Dr. <hi>Fiſher Littleton, Thomas Lucas, Nehe<g ref="char:EOLhyphen"/>miah Lyde, Peter Henriques Leferrer, Solomon d'Medina, John Morris, Nicholas Mors</hi> Junior, <hi>Samuel Moyer, Samuel Mitchel, Ralph Marſhal, John Martyn, William Mead, Thomas Mulſo, Arthur Moore, William Milman, Richard Mead, James Miſſon, Charles Middleton, Anthony Meeke, Nicholas Martin, Charles Maſon, William Nicholas, Thomas Nisbet, Francis Negus, Hugh North, Michael Noble, Richard Noys, Thomas Owen, Walter Overbury, Samuel Onely</hi> Senior, <hi>Samuel Powel, Joſeph Paice, John Paſchall, John Pearſon,</hi> Colonel <hi>John Perry, Richard Petty, John Powell, George Paske, John
+<pb n="6" facs="tcp:178744:4"/>Packer,</hi> Col. <hi>Pilkinton, Thomas Papillon, Bartholowew Phillibert, Tho. Radbord, Ga<g ref="char:EOLhyphen"/>briel Roberts, Henry Renew, Peter Renew, Edward Richier, Edward Ruge, Richard Rider, Samuel Read, Nicholas Richards, Thomas Rawlins, John Roydhouſe,</hi> Dr. <hi>Rad<g ref="char:EOLhyphen"/>cliffe, Thomas Robinſon,</hi> Sir <hi>Iſaac Rebow, Jacob Reynardon, Stephen Signiorett, Arthur Shellett, Thomas Skinner,</hi> Dr. <hi>William Stokeham, John Sherbrooke, John Smith, John Sikes, John Skinner, Arnold Squibb, Edward Solloway, Ebenezer Sadler, Thomas Slater, Thomas Sutton, John Smith, Thomas Swinbourne, Samuel Sheppard, William Sheppard, William Sedgwick, Robert Sanderſon, John Schoppins, Samuel Sale, Robert Stephens, Perry Slaughter, Francis Tuſsen</hi> Junior, <hi>Richard Tilden, John Trenchard, Richard Trevor,</hi> Major General <hi>Trelawny,</hi> Colonel <hi>Henry Trelawny, Joſeph Thompſon, Frede<g ref="char:EOLhyphen"/>rick Tilney, Thomas Trench, Robert Tracy, John Tulley, Francis Terrence, Thomas Taylor, Dalby Thomas, Nicholas Tourton,</hi> Mr. Prothonotary <hi>Tempeſt, Robert Thompſon, John Du Tilleux, Conſtantine Vernatti, Henry Vincent, Leonard Weſſell, Joſeph Woolfe, William Withers, Samuel Wickens, Solloway Winnington, John Weſton, Thomas Win<g ref="char:EOLhyphen"/>ford, Baſill Wood, Edward Woodhouſe, Jaques Wiſeman, Thomas Williams, Iſaac Watlington, Thomas Williamſon, Walter Whitfeild, Edmund Waller, William Young,</hi> and <hi>Warwick Yard,</hi> to be our Commiſſioners, to take and receive all ſuch volun<g ref="char:EOLhyphen"/>tary Subſcriptions as ſhall be made on or before the ſaid Firſt Day of <hi>Auguſt,</hi> in the year of our Lord One thouſand ſix hundred ninety ſix, by or for any Perſon or Perſons, Natives or Foreignors, or by or for any Body Politick or Corporate (ex<g ref="char:EOLhyphen"/>cept as aforeſaid) for or towards the Raiſing or Paying the ſaid Sum of Five and twenty hundred and ſixty four thouſand Pounds in the ſaid Act mentioned: And to you, or any Five or more of you, We do by theſe Preſents give and grant full Power and Authority to take and receive; and you, or ſo many of you as aforeſaid, are hereby directed and required to take and receive all ſuch volun<g ref="char:EOLhyphen"/>tary Subſcriptions of and for any Sum or Sums of Money (not exceeding in the whole the ſaid Sum of Five and twenty hundred and ſixty four thouſand Pounds) as any Perſon or Perſons, Natives or Foreigners, or Bodies Politick or Corporate (other than the Governor and Company of the <hi>Bank</hi> of <hi>England</hi>) ſhall be willing to make as aforeſaid, or ſhall cauſe to be made within the time before.</p>
+            <p>
+               <note place="margin">To Provide the Office in Ten Days.</note>And for the better purſuing of the End and Intent of the ſaid Act of Parlia<g ref="char:EOLhyphen"/>ment, and of our Royal Purpoſe and Intention in theſe Preſents, we do for Us, Our Heirs and Succeſſors, order, direct and appoint that you or ſo many of you as aforeſaid, ſhall within Ten Days after the Date or making of theſe Preſents, provide, appoint, and keep one or more Convenient Houſe or Houſes within the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> or one of them, or within the Suburbs of the ſame, to be the Publick Office or Offices to which all or any Perſon or Perſons ſhall or may reſort for the making of the ſaid Subſcriptions, and to pay the Fourth Part of the Moneys which they reſpectively are to pay thereupon; and ſhall give ſuch publick Notice thereof as you ſhall think moſt conduce<g ref="char:EOLhyphen"/>able to this Service.</p>
+            <p>
+               <note place="margin">Books in Ten Days.</note>And that you, or any Five or more of you, ſhall within Ten Days after the Date or making hereof, provide or cauſe to be provided one or more Book or Books of Vellum or Parchment for the ſaid Subſcriptions to be made therein.</p>
+            <p>Which Book or Books ſhall lie open every Day (<hi>Sundays</hi> excepted) at the ſaid Publick Office or Offices,<note place="margin">Books to lie Open.</note> from the Hours of Eight to the Hours of Twelve in the Forenoons, and from the Hours of Three to the Hours of Eight in the Afternoons, until and upon the ſaid Firſt Day of <hi>Auguſt</hi> One thouſand ſix hundred ninety ſix, unleſs the Subſcriptions for the ſaid whole Sum of Five and twenty hundred and ſixty four thouſand Pounds ſhall be ſooner Compleated.</p>
+            <p>And that in the Title or Front of every or any ſuch Book or Books, there ſhall be fairly written proper Words,<note place="margin">Title of the Book.</note> importing that the ſame doth or do con<g ref="char:EOLhyphen"/>tain the Subſcriptions authorized to be made in purſuance of the ſaid Act of Parliament, and of theſe Preſents, of the reſpective Sums which the ſeveral Perſon or Perſons, Natives or Foreigners, Bodies Politick or Corporate, whoſe Names ſhall be written therein, do or ſhall ſet or cauſe to be ſet againſt their Names reſpectively.</p>
+            <p>One full Fourth Part of which ſaid Sum or Sums of Money, and every of them ſo to be Subſcribed is to be paid at the time of making each Subſcription by the reſpective Subſcribers,<note place="margin">Fourth Part payd down.</note> to the Hands of you our Commiſſioners, and the reſidue thereof in ſuch manner as is herein after directed.</p>
+            <p>
+               <pb n="7" facs="tcp:178744:4"/>
+               <note place="margin">Sums in Words at length and Figures.</note>And you are ſeverally to take care, that the Sums ſo Subſcribed be written as will in Words at length as in Figures, with a Colume for expreſſing the Day on which every ſuch Subſcription ſhall be made; and that the Subſcriptions ſo to be made from time to time, be atteſted under the Hands and Seals of two or more of you,<note place="margin">Subſcription: Atteſted under the Hands and Seals of two or more Commiſ<g ref="char:EOLhyphen"/>ſioners.</note> our Commiſſioners who were preſent at the making of thoſe Subſcriptions.</p>
+            <p>And that no ſuch Subſcriptions ſhall be made or taken after the ſaid Firſt Day of <hi>Auguſt</hi> now next enſuing.</p>
+            <p>
+               <note place="margin">Duplicates At<g ref="char:EOLhyphen"/>teſted by Five Commiſſioners. to be delivered to the Auditor of the <hi>Exche<g ref="char:EOLhyphen"/>quer.</hi>
+               </note>And that you, or any Five or more of you, do without delay after the ſaid Firſt Day of <hi>Auguſt</hi> next enſuing, or after the ſaid Subſcriptions for the whole Sum of Five and twenty hundred and ſixty four thouſand Pounds ſhall be Com<g ref="char:EOLhyphen"/>pleated (which ſhall firſt happen) make or cauſe to be made true Duplicates, or Copies fairly written in Parchment, of the ſaid whole Book or Books of Sub<g ref="char:EOLhyphen"/>ſcriptions, and deliver the ſaid Duplicate or Duplicates of the ſaid Book or Books, atteſted by Five or more of you as aforeſaid, into the ſaid Office of Auditor of the Receipt of Our <hi>Exchequer,</hi> that ſo it may appear whether the whole Sum of Five and twenty hundred and ſixty four thouſand Pounds be Sub<g ref="char:EOLhyphen"/>ſcribed within the ſaid limited Time, or not, or how much thereof, and by whom the ſame or any part thereof ſhall be ſo Subſcribed, and that thereby the Commiſſioners of Our Treaſury, or Our Treaſurer, and Under Treaſurer, and other Officers of the <hi>Exchequer</hi> for the time being may know how the yearly Fund appropriated by the ſaid Act, or any proportion or part thereof, is to be Iſſued or Applied, according to the true Intent and Meaning of the ſame Act of Parlia<g ref="char:EOLhyphen"/>ment: And we do hereby Authorize, Require and Command the ſaid Auditor of the Receipt of Our <hi>Exchequer</hi> to Enroll, and the Clerk of the Pells in the Receipt of <hi>Exchequer</hi> to Record the ſaid Duplicate or Duplicates in the Regiſters or Records of their reſpective Offices, for the Ends and Purpoſes aforeſaid.</p>
+            <p>And alſo, we do by theſe preſents, for us, our Heirs and Succeſſors, Direct, Authorize and Appoint, that you our ſaid Commiſſioners,<note place="margin">Any five to re<g ref="char:EOLhyphen"/>ceive the firſt fourth part.</note> or any five or more of you, ſhall and may receive and take from every ſuch Subſcriber or Subſcribers as aforeſaid, reſpectively, at the time of his, her, or their Subſcription, the full fourth part of every Sum ſo Subſcribed, which by the Tenor and true meaning of the ſaid Act, is then to be paid in Ready Money.</p>
+            <p>And that you Our ſaid Commiſſioners, or any five or more of you, ſhall and may Appoint ſuch Perſon or Perſons as you ſhall think fit to Intruſt,<note place="margin">To Appoint a Caſhier.</note> and ſhall be alſo Approved by the Commiſſioners of Our Treaſury or any three of them now being, or by the Treaſurer of Our <hi>Exchequer,</hi> or any three or more of the Commiſſioners of our Treaſury for the time being, to be the Caſhier or Caſhiers for the Cuſtody or Keeping of all or any the Sum or Sums of Money ariſing by or for the firſt fourth part of the Moneys to be Subſcribed as aforeſaid, taking from ſuch Perſon or Perſons reſpectively, ſuch Security or Securities as to you ſhall ſeem good and ſufficient, and ſhall alſo be Approved by the Commiſſioners of Our Treaſury, or the Treaſurer of Our <hi>Exchequer</hi> as aforeſaid, by Bond or Bonds in the Name of us, Our Heirs or Succeſſors, for the due Anſwering, Paying and Accounting for the Money which they ſhall reſpectively receive, according to ſuch Rules or Directions as are hereafter in theſe Preſents contained, for or con<g ref="char:EOLhyphen"/>cerning the Payment or Application of the ſame.</p>
+            <p>
+               <note place="margin">To keep the Mo<g ref="char:EOLhyphen"/>ney till payable into the <hi>Exche<g ref="char:EOLhyphen"/>quer.</hi>
+               </note>AND <hi>We do by theſe Preſents,</hi> for us, our Heirs and Succeſſors, Direct, Au<g ref="char:EOLhyphen"/>thorize and Command, that you Our ſaid Commiſſioners, or your Caſhier or Caſhiers who ſhall Receive or have in their Cuſtody all or any the Moneys ari<g ref="char:EOLhyphen"/>ſing by the ſaid Subſcriptions for the firſt fourth part as aforeſaid, or any Perſon or Perſons, Chargeable therewith; ſhall ſafely keep the ſame and every part there<g ref="char:EOLhyphen"/>of (as it ſhall be received) to Our uſe until the ſaid Moneys ſhall be payable into the Receipt of Our <hi>Exchequer,</hi> according to Our Directions herein after con<g ref="char:EOLhyphen"/>tained (that is to ſay,)</p>
+            <p>
+               <note place="margin">How the firſt fourth part ſhall be paid into the <hi>Exchequer</hi>
+               </note>OUR <hi>Will and Pleaſure is,</hi> and We do hereby Direct, Authorize and Command, that you Our ſaid Commiſſioners, or the ſaid Caſhier or Caſhiers or others that ſhall have the Cuſtody of the money of the ſaid firſt fourth part, or any part thereof, or be chargeable therewith, ſhall and do, in caſe the whole Sum of Two Millions Five Hundred Sixty four Thouſand Pounds, or the Moyety, or any greater part thereof, ſhall be Subſcribed on or before the firſt Day of <hi>Auguſt</hi> now next enſuing as aforeſaid, as ſoon as our Charter of Incorporation ſhall be made and paſſed
+<pb n="8" facs="tcp:178744:5"/>under Our Great Seal of <hi>England,</hi> pay or cauſe to be paid all the Moneys which ſhall then have been received of or for the ſaid firſt fourth part into the Receipt of Our <hi>Exchequer,</hi> in the Name of the Governour and Company of the <hi>National Land Band,</hi> and upon ſuch Payment or Payments to be made in the Name of ſuch Governour and Company of the <hi>National Land-Bank</hi> of the Moneys of the ſaid firſt fourth part, the Commiſſioners of Our Treaſury, Treaſurer and under Trea<g ref="char:EOLhyphen"/>ſurer of Our <hi>Exchequer,</hi> and all other Officers to whom it doth or ſhall appertain in the Receipt of the <hi>Exchequer</hi> for the time being, are hereby Required and Autho<g ref="char:EOLhyphen"/>rized to Levy or Strike Talleys for the ſame, Importing ſo much Money Re<g ref="char:EOLhyphen"/>ceived from ſuch Governour and Company by the hands of you Our ſaid Com<g ref="char:EOLhyphen"/>miſſioners, for or towards the Sum not exceeding Five and twenty hundred and ſixty four thouſand Pounds, to be raiſed upon the ſaid Act, and to Draw and Sign <hi>Exchequer</hi> Orders fairly written in Parchment for paying to the ſaid Gover<g ref="char:EOLhyphen"/>nour and Company of the <hi>National Land-Bank</hi> and their Succeſſors for ever, (Sub<g ref="char:EOLhyphen"/>ject nevertheleſs to the Condition of Redemption in the ſaid Act contained, a proportionable part of the ſaid yearly Sum of One hundred ſeventy nine thou<g ref="char:EOLhyphen"/>ſand four hundred and eighty Pounds <hi>per Annum,</hi> for every or any Sum of the ſaid firſt fourth part which ſhall be ſo paid into the Receipt of Our <hi>Exchequer,</hi> according to the Tenor and true meaning of the ſaid Act of Parliament.</p>
+            <p>AND <hi>Our Will and Pleaſure is,</hi> And We do hereby Direct, Authorize and Command, that you Our ſaid Commiſſioners, or the ſaid Caſhier or Caſhiers, or others, who ſhall have the Cuſtody of the ſaid Moneys ſo to be received for the firſt fourth part of the ſaid Subſcriptions, or any part thereof, ſhall and do (in caſe ſo much as a Moyety of the ſaid Five and twenty hundred and ſixty four thouſand Pounds ſhall not be Subſcribed on or before the ſaid firſt day of <hi>Au<g ref="char:EOLhyphen"/>guſt</hi> next) pay or cauſe to be paid, all the Moneys which you ſhall have received for the ſaid firſt fourth part upon the ſaid Subſcriptions into the Receipt of Our <hi>Exchequer,</hi> in the Names of the reſpective Subſcribers or Contributors thereof, his, her, or their reſpective Executors, Adminiſtrators, Succeſſors, or Aſſignes; and upon every or any ſuch Payment or Payments to be made; (as is laſt mentioned) the ſaid Commiſſioners of Our Treaſury, Treaſurer, and under Treaſurer of Our <hi>Exchequer,</hi> and all other Officers to whom it doth or ſhall appertain in the Receipt of Our <hi>Exchequer</hi> for the time being, are hereby Authorized and Required to Levy and Strike Talleys for the ſame, Importing ſo much Money Received from the reſpective Subſcribers and Contributors, their Executors, Adminiſtrators, Suc<g ref="char:EOLhyphen"/>ceſſors, or Aſſignes, by the hands of you Our ſaid Commiſſioners upon the ſaid Act, and to Draw and Sign <hi>Exchequer</hi> Orders fairly written in Parchment, for paying to the ſaid reſpective Subſcribers and Contributors, their Executors, Ad<g ref="char:EOLhyphen"/>miniſtrators, Succeſſors and Aſſignes for ever, (ſubject nevertheleſs to the con<g ref="char:EOLhyphen"/>dition of Redemption in the ſaid Act contained) proportionable parts of the ſaid yearly Fund of One hundred ſeventy nine thouſand four hundred and eighty Pounds, according to the true meaning of the ſaid Act, for every or any Sum which ſhall be ſo paid into the Receipt of Our <hi>Exchequer,</hi> and theſe preſents of the Entry or Enrollment thereof, ſhall be to the ſaid Commiſſioners of the Trea<g ref="char:EOLhyphen"/>ſury, Treaſurer, under Treaſurer, and all other Officers and Perſons who are, or may be concerned, a ſufficient Warrant and Diſcharge in that behalf.</p>
+            <p>And as to the remaining three fourth parts of all and every the Sum and Sums of Money which ſhall be Subſcribed and Contained in the ſaid Books of Subſcription as aforeſaid;<note place="margin">How the reſidue ſhall be paid.</note> Our Will and Pleaſure is, and We do hereby Declare, Limit and Appoint, that every entire Sum Subſcribed, or to be Subſcribed as aforeſaid, being divided into four equal parts (whereof the firſt fourth part is to be paid and brought into the Receipt of our <hi>Exchequer,</hi> by and according to Our Directions aforeſaid.)</p>
+            <p>A Second fourth part thereof ſhall be paid and brought into the Receipt of <hi>Exchequer,</hi>
+               <note place="margin">Second Pay<g ref="char:EOLhyphen"/>ment.</note> on or before the firſt day of <hi>October</hi> now next enſuing.</p>
+            <p>
+               <note place="margin">Reſidue of the Payment.</note>And the remaining two fourth parts (which will compleat the whole Sub<g ref="char:EOLhyphen"/>ſcriptions) ſhall be paid or brought into the Receipt of <hi>Exchequer,</hi> before the firſt day of <hi>January</hi>) now next enſuing.</p>
+            <p>
+               <note place="margin">How the Reſi<g ref="char:EOLhyphen"/>due ſhall be paid in caſe of Incor<g ref="char:EOLhyphen"/>poration.</note>And in caſe the whole Sum of Five and twenty hundred and ſixty four thou<g ref="char:EOLhyphen"/>ſand Pounds or the Moiety, or any greater part thereof, ſhall be Subſcribed on or before the firſt day of <hi>Auguſt</hi> next as aforeſaid, then all the Moneys which ſhall be Subſcribed as aforeſaid, (the firſt fourth part only excepted) ſhall and may be
+<pb n="9" facs="tcp:178744:5"/>brought and paid into the Receipt of Our <hi>Exchequer,</hi> at ſuch times and by ſuch Ways, Methods or Means, as the Governour, (or in his abſence) the Deputy-Governour, together with Sixteen or more of the Truſtees, to be conſtituted by the ſaid Charter of Incorporation, ſhall from time to time Direct, Limit or Appoint.</p>
+            <p>So as a full Second Fourth part of all and every the Sum and Sums of Money to be Subſcribed as aforeſaid, be entirely paid and brought into the ſaid Re<g ref="char:EOLhyphen"/>ceipt of <hi>Exchequer,</hi> on on or before the ſaid firſt day of <hi>October</hi> now next en<g ref="char:EOLhyphen"/>ſuing.</p>
+            <p>And ſo as that the remaining two fourth parts to compleat the whole Account of the ſaid Subſcriptions be paid, or brought into the ſaid Receipt of <hi>Exchequer,</hi> before the ſaid firſt day of <hi>January</hi> now next enſuing as aforeſaid.</p>
+            <p>
+               <note place="margin">How the Reſidue ſhall be paid in caſe there be no Incorporation.</note>And in caſe ſo much as a Moiety of the ſaid Five and twenty hundred and ſixty four thouſand Pounds, or any greater Sum, ſhall not be Subſcribed on or before the firſt day of <hi>Auguſt</hi> now next enſuing, then all the Moneys which ſhall be Subſcribed as aforeſaid (the ſaid firſt fourth part only excepted) ſhall be paid and brought into the ſaid Receipt of <hi>Exchequer</hi> by the reſpective Subſcribers of the ſame, his, her, or their Executors, Adminiſtrators, Succeſſors or Aſſignes, at or be<g ref="char:EOLhyphen"/>fore the reſpective days or times, and in ſuch proportions as are herein before li<g ref="char:EOLhyphen"/>mited and appointed for the payment of the laſt three fourth parts, in caſe five and twenty hundred and ſixty four thouſand Pounds, or a Moiety, or any greater part thereof, ſhall be Subſcribed as aforeſaid, and according to the Tenor and true meaning of the ſaid Act.</p>
+            <p>
+               <note place="margin">Talleys ſtruck for the Pay<g ref="char:EOLhyphen"/>ments.</note>And upon every or any ſuch Payment or Payments ſo to be made, of all or any the Moneys ariſing by or upon the ſaid Subſcriptions, (the Firſt Fourth Part only excepted, touching which Our Pleaſure is herein before declared,) Our Will and Pleaſure is, and We do hereby for Us, Our Heirs, and Succeſ<g ref="char:EOLhyphen"/>ſors, Direct, Authorize and Command, That the ſaid Commiſſioners of Our Treaſury, Treaſurer, and Under-Treaſurer, and all other Officers in Our Ex<g ref="char:EOLhyphen"/>chequer for the Time being, to whom it doth or ſhall appertain, ſhall from Time to Time Levy and Strike Talleys for the Moneys which ſhall be ſo Paid by the Governor and Company of the <hi>National Land-Bank,</hi> importing the Receipt thereof from them; and Tallies for the Moneys which ſhall or may (in the Caſe before-mentioned) be ſo Paid by the reſpective Subſcribers or Contribu<g ref="char:EOLhyphen"/>buters, his, her, or their Executors, Adminiſtrators, Succeſſors, or Aſſigns, im<g ref="char:EOLhyphen"/>porting the Receipt thereof of and from them reſpectively; And ſhall from Time to Time, upon the ſaid Tallies, Draw and Sign ſuch <hi>Exchequer</hi>-Orders as are above-mentioned, for the Proportionable Parts of the ſaid Yearly Fund, which (in the reſpective Caſes aforeſaid) are to be Paid and Iſſued, either to the Governor and Company of the <hi>National Land-Bank,</hi> and their Succeſſors, for ever; or to the reſpective Subſcribers and Contributers, their Executors, Adminiſtrators, Succeſſors and Aſſigns, for ever, according to the Tenour and true Meaning of the ſaid Act of Parliament, and ſubject to the Conditions of Redemption therein contained.</p>
+            <p>
+               <note place="margin">Any Five Com<g ref="char:EOLhyphen"/>miſſioners to give Receipts</note>And We do alſo Direct and Appoint, that you Our ſaid Commiſſioners, or any Five, or more of you, who ſhall Receive any of the above-mentioned Pay<g ref="char:EOLhyphen"/>ments of the ſaid Firſt Fourth Part, in purſuance of theſe Preſents, ſhall imme<g ref="char:EOLhyphen"/>diately give to the Perſon or Perſons paying the ſame, a Receipt in Writing for the ſeveral Sum and Sums of Money ſo received.</p>
+            <p>
+               <note place="margin">Entries of Pay<g ref="char:EOLhyphen"/>ment.</note>And ſhall cauſe an Entry thereof to be made in a Book or Books for that purpoſe to be kept in your ſaid Office or Offices, wherein ſhall be Entred and Regiſtred the Day on which every ſuch Payment ſhall be made; the Names of you Our ſaid Commiſſioners, to whom each Sum ſhall have been paid; the Name, and Place of Abode, of the ſaid Perſon or Perſons making the Payment, with his, her or their proper Additions; and the Sum that ſhall be actually paid.</p>
+            <p>
+               <note place="margin">Tranſmit an Acccount of the Payments to the Auditor</note>And that you Our ſaid Commiſſioners, or any Five, or more of you, do without Delay, after the ſaid Firſt Day of <hi>August</hi> next enſuing, make, or cauſe to be made, a true Account, fairly written in Parchment, of all the ſaid Receipts of the Money of the ſaid Firſt Fourth Part; expreſſing therein ſuch Particulars as are herein before directed to be Inſerted in the ſaid Receipts; and deliver the ſaid Account, Atteſted by any Five, or more
+<pb n="10" facs="tcp:178744:6" rendition="simple:additions"/>of you, as aforeſaid, into the Office of the Auditor of the Receipt of <hi>Ex<g ref="char:EOLhyphen"/>chequer.</hi>
+            </p>
+            <p>
+               <note place="margin">Account to be Inrolled and Re<g ref="char:EOLhyphen"/>corded.</note>And We do hereby Authorize, Require and Command the ſaid Auditor of the Receipt to Inrol, and the ſaid Clerk of the Pells to Record the ſaid Ac<g ref="char:EOLhyphen"/>count, in the Regiſters or Records of their reſpective Offices; as well for the Charging of you, Our Commiſſioners, who ſhall Receive the ſaid Moneys, or your Caſhiers, with the Money ſo Received, as for the better Guidance of the ſaid Commiſſioners of the Treaſury, Treaſurer, Under-Treaſurer, and other the Officers of the <hi>Exchequer,</hi> for the Time being, in the Iſſuing and Payment of the ſaid appropriated Fund, or any Part or Proportion of the ſame, purſuant to the ſaid Act of Parliament.</p>
+            <p>
+               <note place="margin">To give Atten<g ref="char:EOLhyphen"/>dance.</note>And Our Will and Pleaſure is, and We do hereby Require and Command, That you Our ſaid Commiſſioners, and every of you reſpectively, do from Time to Time Aſſemble and Meet together, and give your Attendance at the Publick Office or Offices before-mentioned.</p>
+            <p>And if the Firſt,<note place="margin">Subdivide.</note> or any other General Meeting of you Our Commiſſioners, which ſhall be had, or appointed to be had, for the putting of this Com<g ref="char:EOLhyphen"/>miſſion in Execution, you, or the Major Part of you then preſent, ſhall judge it moſt convenient to have or keep ſeveral publick Offices for the Purpoſe aforeſaid; In that Caſe you are hereby Directed and Authorized to Sub-di<g ref="char:EOLhyphen"/>vide your ſelves for the ſaid ſeveral Offices; taking Care that a ſufficient Number of you Our Commiſſioners ſhall be, and do Attend in each Office; And that you ſelves, and the Caſhier or Caſhiers to be Employed under you, do from Time to Time carefully and diligently Attend the Execution and Per<g ref="char:EOLhyphen"/>formance of this Our Service, in all Things, as becometh.</p>
+            <p>
+               <note place="margin">Commiſſioners of the Treaſury to be Aiding.</note>And the ſaid Commiſſioners of Our Treaſury now being, and the Treaſurer and Under-Treaſurer of the <hi>Exchequer,</hi> or Commiſſioners of Our Treaſury for the Time being, are hereby required to be Aiding and Aſſiſting to you in the Performance of this Our Service.</p>
+            <p>
+               <note place="margin">Commmiſſioners of the Treaſury to iſſue Moneys for the Charges.</note>And are hereby alſo Impowered and Commanded, out of any Our Treaſury, from Time to Time, being and remaining in the Receipt of Our <hi>Exchequer,</hi> (not appropriated to particular Uſes by Act of Parliament,) to Iſſue and Pay to ſuch Perſon or Perſons as you ſhall nominate, ſuch Sum or Sums of Money as ſhall be neceſſary to be Expended or Laid out as Incident Charges in the Exe<g ref="char:EOLhyphen"/>cution of this Our Commiſſion.</p>
+            <p>
+               <note place="margin">Notice of the firſt Election.</note>And to the End the ſaid Corporation, or Body Politick (in Caſe the ſaid Sum of Two Millions Five Hundred Sixty Four Thouſand Pounds, or the Moye<g ref="char:EOLhyphen"/>ty, or any greater Part thereof ſhall be Subſcribed on or before the ſaid Firſt Day of <hi>August</hi> next enſuing) may be Erected and Setled to the beſt Content and Satisfaction of the Subſcribers or Contributers aforeſaid, We do by theſe Preſents give full Power and Authority to you Our ſaid Commiſſioners: And We do hereby for Us, Our Heirs and Succeſſors, Require, Cmmand, Conſent, and Agree, That you Our ſaid Commiſſioners, or any Five or more of you, ſhall and may immediately after the ſaid Firſt Day of <hi>Auguſt</hi> next, or ſo ſoon as the ſaid Sum of Five and twenty hundred and ſixty four thouſand Pounds ſhall be Sub<g ref="char:EOLhyphen"/>ſcribed as aforeſaid (which of them ſhall firſt happen) cauſe Publick Notice to be given by Writing under your Hands, to be openly ſet up and affixed upon the <hi>Royal-Exchange</hi> in <hi>London,</hi> and at your own Publick Office or Of<g ref="char:EOLhyphen"/>fices, to and for all and every the Perſon and Perſons, Bodies Politick or Cor<g ref="char:EOLhyphen"/>porate, who before the making of the Elections herein after mentioned, ſhall ſeverally or reſpectively have Subſcribed in the ſaid Book or Books as aforeſaid, any Sum or Sums of Money not leſs than Five hundred Pounds, and ſhall have ſeverally paid one Fourth Part of the Sum or Sums ſo by them Subſcribed, and ſhall have taken the Oaths,<note place="margin">Qualification of Electors.</note> or made the Declaration herein after mentioned, their Executors, Adminiſtrators, Succeſſors or Aſſigns, to Aſſemble and Meet together at ſome convenient Place within the Cities of <hi>London</hi> or <hi>Weſtminſter,</hi> and at a Day to be Preſcribed or Appointed in the ſaid Writing; (Which Day is not to be ſooner than Four Days, or later than Eight Days after the ſaid No<g ref="char:EOLhyphen"/>tice ſhall be Set up or Affixed upon the Royal Exchange, and your ſaid Office or Offices as aforeſaid:<note place="margin">Provided that no one to Elect.</note>) Then and there to Elect and Chuſe Perſons (qualified as is herein after mentioned) to be the Firſt Governor, Firſt Deputy-Governor, and Firſt Truſtees of the Corporation, or Body-Politick, to be Erected and Eſta<g ref="char:EOLhyphen"/>bliſhed in purſuance of the ſaid Act.</p>
+            <p>
+               <pb n="11" facs="tcp:178744:6" rendition="simple:additions"/>
+               <note place="margin">Choſe by Ballat.</note>And that it ſhall and may be lawful, to and for all and every ſuch Subſcribers qualified as aforeſaid; their Executors Adminiſtrators, Succeſſors and Aſſignes, then and there to aſſemble and meet together; and too and for them, or the Major part of them ſo aſſembled, to Nominate, Elect and Chooſe (by way of Ballat) out of the whole number of Subſcribers,<note place="margin">None above one Vote.</note> (whereof none to have more then one Vote) one Perſon who ſhall have Subſcribed in his own Right, the Sum of Four Thouſand Pounds at leaſt, and ſhall have paid one fourth at the leaſt of the Sum ſo by him Subſcribed,<note place="margin">Stock of Gover<g ref="char:EOLhyphen"/>nor.</note> to be made the firſt Governour of the ſaid Cor<g ref="char:EOLhyphen"/>poration, to be erected as aforeſaid; and one other Perſon who ſhall have Sub<g ref="char:EOLhyphen"/>ſcribed in his own Right the Sum of Three Thouſand Pounds at leaſt, and ſhall have paid one fourth part at leaſt, of the Sum ſo by him Subſcribed,<note place="margin">Stock of Depu<g ref="char:EOLhyphen"/>ty Governor, Thirty Truſtees.</note> to be made the firſt Deputy-Governor of the ſaid Corporation; and thirty other Perſons, each of which ſhall ſeverally have Subſcribed in their own Rights, the Sum of Two Thouſand Pounds at the leaſt,<note place="margin">Stock of Tru<g ref="char:EOLhyphen"/>ſtees.</note> and who ſhall ſeverally and reſpectively have paid one fourth part, or more, of every ſuch Sum ſo by them reſpectively Subſcribed, to be the firſt Truſtees of the ſaid Corporation, or Body Politick; which Election ſhall ſeverally be determined by the Majority of Votes of the Subſcribers then preſent, by way of Ballat as aforeſaid.</p>
+            <p>
+               <note place="margin">In caſe of Equa<g ref="char:EOLhyphen"/>lity.</note>And in caſe they ſhall be Equal, then by you Our Commiſſioners, or the Major part of you then preſent.</p>
+            <p>
+               <note place="margin">Perſons Elected to be inſerted in the Charter.</note>And the Perſons ſo to be Elected or Choſen, ſhall be incerted in Our Royal Char<g ref="char:EOLhyphen"/>ter of Incorporation, to be granted as aforeſaid, and ſhall thereby be made and con<g ref="char:EOLhyphen"/>ſtituted the firſt Governour, Deputy-Governour, and Truſtees of the Company, thereby to be Erected and Eſtabliſhed, and to be and continue in thoſe ſeveral Offices of Governor, Deputy-Governor, and Truſtees, from the date or ma<g ref="char:EOLhyphen"/>king of Our ſaid Charter, until the Tenth Day of <hi>April,</hi> which ſhall be in the Year of Our Lord, One thouſand ſix hundred ninety eight,<note place="margin">Firſt Truſtees to continue till tenth of <hi>April, 1698.</hi>
+               </note> and till others ſhall be duly choſen in their Rooms and ſworn, Subject nevertheleſs to the Rules, Re<g ref="char:EOLhyphen"/>ſtrictions, Proviſoes and Directions contained in the ſaid Act of Parliament; and to ſuch other Rules and Appointments as ſhall be inſerted touching them in the ſaid Charter: The Draught whereof is contained in a Schedule hereunto annex<g ref="char:EOLhyphen"/>ed.</p>
+            <p>Provided always, and Our Royal Will and Pleaſure is, And we do hereby Appoint, that no Subſcriber ſhall be capable to Vote, as aforeſaid, in the Electi<g ref="char:EOLhyphen"/>on of the ſaid Perſons, to be made the firſt Governor, Deputy-Governor, or Truſtees,<note place="margin">Oath of Elect<g ref="char:EOLhyphen"/>ors.</note> or any of them, until he ſhall have taken an Oath, in the form and to the effect following, (to wit) <hi>I</hi> A. B. <hi>Do ſwear that the Sum of Five hundred Pounds by me Subſcribed, or the Sum of Five hundred Pounds at leaſt, of the Moneys by me Subſcribed, is my own proper Money, for my own Uſe, and in my own Right, and not in Truſt for any Perſon whatſoever.</hi>
+            </p>
+            <p>Provided nevertheleſs, that any Perſon or Perſons commonly called or known to be Quakers, who ſhall have Subſcribed Five hundred Pounds, or more, as aforeſaid,<note place="margin">Proviſo for Quakers.</note> and ſhall have made and Signed the Declaration following (that is to ſay,) <hi>I</hi> A. B. <hi>Do Sincerely and Solemnly Declare, in the Preſence of God, that the Sum of Five hundred Pounds by me Subſcribed, or the Sum of Five hundred Pounds at leaſt, of the Moneys by me Subſcribed, is my own Proper Money, for my own Uſe, and in my own Right, and not in Truſt for any Perſon whatſoever,</hi>) ſhall be capable of Voting, and the Elections or choice of the ſaid Perſons, to be made the Firſt Governor, Deputy Governor, and Truſtees, as aforeſaid.</p>
+            <p>
+               <note place="margin">Governor, De<g ref="char:EOLhyphen"/>puty-Governor, and Truſtees, to be Natural Born or Naturalliz<g ref="char:EOLhyphen"/>ed; and to take Oaths.</note>Provided alſo, and Our Royal Will and Pleaſure is, and we do hereby Ap<g ref="char:EOLhyphen"/>point, that no Subſcriber or Subſcribers ſhall be capable to be Choſen as afore<g ref="char:EOLhyphen"/>ſaid, to be made the Firſt Governor, Deputy-Governor, or Truſtees, as afore<g ref="char:EOLhyphen"/>ſaid, unleſs he or they be Natural born Subjects of <hi>England,</hi> or Naturalized and ſhall ſeverally and reſpectively have taken an Oath, that the Sums, which in their reſpective caſes are requiſite to have been Subſcribed by them as aforeſaid, (that is to ſay) Four Thouſand Pounds by the Perſon to be made Governor, Three Thouſand Pounds by the Perſon to be made Deputy-Governor, and Two Thouſand Pounds by every one of them that ſhall be the Truſtees (are their own proper Moneys reſpectively, and Subſcribed for their own Uſe, and in their own Right, and not in Truſt for any other Perſon or Perſons as aforeſaid,) nor ſhall be capable of Executing his or their Office or Offices, until he or they ſhall reſpectively have taken the Oaths in the ſaid Recited Act preſcribed for that purpoſe, and the Oath herein before-directed.</p>
+            <p>
+               <pb n="12" facs="tcp:178744:7" rendition="simple:additions"/>
+               <note place="margin">Two Commiſſi<g ref="char:EOLhyphen"/>oners to admini<g ref="char:EOLunhyphen"/>ſter Oaths to Firſt Governor, Deputy-Gover<g ref="char:EOLhyphen"/>nor and Truſtees</note>And We do hereby Direct, Require, Authorize and Impower you our ſaid Commiſſioners, or any Two or more of you, to Adminiſter the ſaid ſeveral Oaths and Declaration to the ſaid Perſons who are to chuſe or be the Firſt Go<g ref="char:EOLhyphen"/>vernor, Deputy-Governor, and Truſtees reſpectively, as aforeſaid; any thing in theſe Preſents contained to the contrary notwithſtanding.</p>
+            <p>And to the End all and every Perſon and Perſons who ſhall Subſcribe and Contribute their Moneys, in purſuance of the ſaid Act of Parliament (which manifeſtly Deſigns and Intends the Publick Good and Convenience of the People of this Kingdom, and the Profit and Advantage of the Perſons who ſhall be Con<g ref="char:EOLhyphen"/>cerned in the ſaid Company, as well as the Accommodation of Our Affairs, in reſpect of the Moneys which are intended by this Means to be Supplied, for the Carrying on the War againſt <hi>France;</hi> and the Juſt Satisfaction of Perſons who had Securities upon the Duties of Tunnage, Coals, and other Things by the ſaid Re<g ref="char:EOLhyphen"/>cited Act, Taken away, or Altered) may be fully Aſſured and Satisfied, That the Powers Veſted in us by the ſaid Act of Parliament for Erecting and Eſtabliſh<g ref="char:EOLhyphen"/>ing the ſaid Corporation, or Body Politick, ſhall be juſtly and truly Executed, according to the true Intent and Meaning of the ſaid Act.</p>
+            <p>
+               <note place="margin">King's Cove<g ref="char:EOLhyphen"/>nant to Incorpo<g ref="char:EOLhyphen"/>rate.</note>We are Graciouſly pleaſed to Promiſe and Declare, and we do by theſe Pre<g ref="char:EOLhyphen"/>ſents ſolemnly Promiſe, Publiſh, Declare and make Known, and We do alſo for Us, Our Heirs and Succeſſors, Covenant, Grant and Agree to and with you Our ſaid Commiſſioners, and every of you, for and on the Behalf of your ſelves, and every or any one of you, and of every or any other Perſon or Perſons whatſoever, that ſhall Subſcribe and Pay any Sum or Sums of Money as afore<g ref="char:EOLhyphen"/>ſaid, that in caſe the whole Sum of Five and twenty hundred and ſixty four thouſand Pounds, or a Moiety, or any greater part thereof, ſhall be Subſcribed upon the Security of the ſaid Act, or in purſuance of theſe Preſents, on or be<g ref="char:EOLhyphen"/>fore the ſaid Firſt Day of <hi>Auguſt</hi> now next enſuing, that then immediately after the ſaid Firſt Day of <hi>Auguſt,</hi> or ſo ſoon as the ſaid Sum of Five and twenty hundred and ſixty four thouſand Pounds ſhall be Subſcribed as aforeſaid, which of them ſhall firſt happen, We, Our Heirs or Succeſſors, ſhall and will Grant and make forth Our Royal Charter or Letters Patents under the Great Seal of <hi>England,</hi>
+               <note place="margin">Who ſhall be In<g ref="char:EOLhyphen"/>corporated, ac<g ref="char:EOLhyphen"/>cording to the <hi>Schedule</hi> an<g ref="char:EOLhyphen"/>nexed.</note> and thereby Incorporate all and every ſuch Subſcribers and Contributers who ſhall then be living, and who ſhall not have Aſſigned their Intereſt in their ſaid Subſcriptions: And in Caſe any of them ſhall be dead, the Executors or Adminiſtrators of ſuch Subſcribers: And in Caſe any of the Subſcribers ſhall have Aſſigned their Intereſt in their ſaid Subſcriptions, in all ſuch Caſes the Aſ<g ref="char:EOLhyphen"/>ſignees of ſuch Subſcribers to be one Body Corporate and Politick, by the Name of the <hi>Governor and Company of the National Land-Bank,</hi> with ſuch Powers, Capacities, Priviledges, Benefits, Liberties, and Advantages, and under and ſubject to ſuch Rules, Reſtrictions, Power of Redemption, Proviſoes, Limita<g ref="char:EOLhyphen"/>tations and Clauſes as are contained in the ſaid Act of Parliament, or are In<g ref="char:EOLhyphen"/>tended by the Schedule hereunto annexed, and with ſuch further Power or Pri<g ref="char:EOLhyphen"/>viledges (being ſuch as We can Lawfully Grant) as ſhall be reaſonably Adviſed and Deſired by Council Learned in the Law, for or on the Behalf of the ſaid Subſcribers and Contributers, and ſhall be Approved by Our Attorney or Solli<g ref="char:EOLhyphen"/>citer-General on Our Behalf.</p>
+            <p>
+               <note place="margin">Subſcription-Money ſhall be called, The Ca<g ref="char:EOLhyphen"/>pital Stock.</note>And We do by theſe Preſents, for Us, Our Heirs and Succeſſors, Declare, Limit, Direct and Appoint, That the whole Sum or Amount of all and every the Sum and Sums of Money that ſhall be Subſcribed and Paid as aforeſaid, ſhall after the ſaid Grant of Incorporation, be and be called, accepted, eſteemed, re<g ref="char:EOLhyphen"/>puted and taken, <hi>The Capital Stock of the ſaid Incorporation;</hi> and all and every Per<g ref="char:EOLhyphen"/>ſon and Perſons, or Bodies Politick, his, her, and their Executors, Adminiſtrators, Succeſſors or Aſſigns, according and in proportion to the Sum or Sums or Mo<g ref="char:EOLhyphen"/>ney by him, her or them reſpectively Subſcribed and Paid thereunto, ſhall have and be deemed to have an Intereſt or Share in the ſaid Capital Stock (not in the whole to exceed Five and twenty hundred and ſixty four thouſand Pounds as afore<g ref="char:EOLhyphen"/>ſaid. Which Intereſt or Share, or any part thereof, ſhall be Aſſignable and Tranſ<g ref="char:EOLhyphen"/>ferrable, and ſhall and may be Aſſigned and Transferred by any Perſon or Per<g ref="char:EOLhyphen"/>ſons Entituled thereunto, to any other Perſon or Perſons, Bodies Politick or Cor<g ref="char:EOLhyphen"/>porate, except the Governor and Company of the <hi>Bank of England,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Stock ſhall be Aſſignable.</note> who ſhall be willing to accept thereof, his or their Executors, Adminiſtrators, Succeſſors or Aſſigns, and ſo over <hi>toties quoties</hi> as fully and effectually as any other Intereſt
+<pb n="13" facs="tcp:178744:7" rendition="simple:additions"/>whatſoever is by Law Aſſignable: Which Aſſignment ſhall Veſt the Intereſt in the Aſſignee and Aſſignees, his, her and their Executors, Adminiſtrators and Succeſſors, according to the Purport and Effect thereof. And after ſuch Aſſign<g ref="char:EOLhyphen"/>ments made, it ſhall not be in the Power of the Aſſigner or Aſſigners, their Executors or Adminiſtrators to Revoke or make Void any ſuch Aſſignments, ſo ſuch Aſſignments or Transferrances be made in Writing, and Entred or Re<g ref="char:EOLhyphen"/>geſtred in ſuch manner as is herein after mentioned (that is to ſay.) All Aſſign<g ref="char:EOLhyphen"/>ments or Transferrances which ſhall be made on or before the ſaid Firſt Day of <hi>August</hi> next enſuing, or the full and compleat Subſcribing of the whole Five and twenty hundred and ſixty four thouſand Pounds, which ſhall firſt happen, and before the Granting of Our Royal Charter of Incorporation before men<g ref="char:EOLhyphen"/>tioned ſhall be Entred or Regiſtred in the ſaid Office of Auditor of the Receipt of Our <hi>Exchequer,</hi> within Six Days after the making of the ſaid reſpective Aſſignments. And all Aſſignments or Transferrances which ſhall be made after the Granting of Our ſaid Royal Charter of Incorporation, ſhall be Made En<g ref="char:EOLhyphen"/>tred and Regiſtred in ſuch Manner and Form as ſhall be thereby preſcribed<g ref="char:punc">▪</g> And if for Default of Subſcribing one Moiety of the ſaid Sum of Five and twenty hundred and ſixty four thouſound Pounds, on or before the ſaid Firſt Day of <hi>Auguſt</hi> next, the Powers and Authorities in the ſaid Act contained for Erecting a Corporation as aforeſaid, ſhall Ceaſe and Determine; then all the Aſſignments and Transferrances to be thenceforth made, ſhall be Entred in the Office of the Remembrancer in the <hi>Exchequer,</hi> in ſuch Method as the ſaid Act in that Caſe directs.</p>
+            <p>Provided always, and Our Will and Pleaſure is, and We do by theſe Pre<g ref="char:EOLhyphen"/>ſents for Us, Our Heirs and Succeſſors, ſignifie, expreſs, declare and grant, That you Our ſaid Commiſſioners, or any of you,<note place="margin">Commiſſioners to be anſwerable for their own Acts only.</note> who are joyned in this Our Commiſſion, ſhall be nevertheleſs Liable and Anſwerable unto Us, Our Heirs and Succeſſors ſeverally, (to wit) Every one of you for his own particular Re<g ref="char:EOLhyphen"/>ceipts, Actings and Doings, and not for the Receipts, Actings, or Doings of one another, or of your Caſheir or Caſheirs, or in any Caſe where there is not perticular Fraud or Deceit.</p>
+            <p>
+               <note place="margin">Commiſſioners to be Sworn.</note>Provided alſo, and Our Will and Pleaſure is, That you Our ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners, and every of you, before you reſpectively do intermeddle in the Exe<g ref="char:EOLhyphen"/>cution of this Our Commiſſion, be Sworn to the Faithful and Honeſt Diſcharge and Execution thereof.</p>
+            <p>And we do hereby Authorize and Impower the Keeper of Our Great Seal of <hi>England,</hi> or Our High Chancellor of <hi>England</hi> for the Time being, or the Chief Baron of Our Court of <hi>Exchequer</hi> for the Time being, or ſuch two or more of you our Commiſſioners, as ſhall firſt be Sworn before Our ſaid Keeper, Chan<g ref="char:EOLhyphen"/>cellor or Chief Baron, to Adminiſter unto you ſeverally ſuch Oath in the Words, or to the Effect following, (that is to ſay)</p>
+            <p>
+               <note place="margin">Form of Com<g ref="char:EOLhyphen"/>miſſioners Oath.</note> 
+               <hi>I</hi> A. B <hi>do Swear, That I will Faithfully and Honeſtly Diſcharge and Execute the Duty and Truſt Repoſed in me, as one of the Commiſſioners Appointed by His Majeſty under the Great Seal of</hi> England, <hi>for taking Subſcriptions, and doing other Matters and Things purſuant to the Act of Parliament, Intituled,</hi> An Act for Continuing to His Majeſty certain Rates and Duties upon Salt, Glaſs Wares, Stone and Earthen Wares, and for Granting ſeveral Duties upon Tobacco Pipes and Earthen Wares, for the Carrying on the War againſt <hi>France,</hi> and for Eſtabliſhing a <hi>Notional Land-Bank,</hi> and for taking off the Duties upon Tunnage of Ships and upon Coals, <hi>to the best of my Skill, Unſterſtanding and Power, and without Fraud or Deceit: (So help me, God.)</hi>
+            </p>
+            <p>
+               <note place="margin">In Caſe of death of Commiſſi<g ref="char:EOLhyphen"/>oners.</note>Provided alſo, and Our Will and Pleaſure is, and We do hereby Declare, Ordain and Appoint, That in Caſe any of you, Our ſaid Commiſſioners, ſhall happen to die before all the Matters and Things hereby Authorized and In<g ref="char:EOLhyphen"/>tended to be done and Executed ſhall be fully Performed and Accompliſhed, That then this Our Commiſſion, or any the Powers hereby Granted, ſhall not Deter<g ref="char:EOLhyphen"/>mine or become Ineffectual, but ſhall and may be Executed and Performed by the reſt of you Our Commiſſioners, ſo long as there ſhall be a ſufficient number left to Execute the ſame.</p>
+            <p>And in Default thereof We do hereby Promiſe and Declare, That a New Commiſſion and full Powers and Authorities ſhall be Granted under Our Great Seal of <hi>England,</hi> for the Accompliſhment and Performance of all Matters
+<pb n="14" facs="tcp:178744:8" rendition="simple:additions"/>and Things hereby Directed or Intended to be Done for the Benefit or Se<g ref="char:EOLhyphen"/>curity of the ſaid Subſcribers and Contributers, their Executors, Succeſſors or Aſſigns.</p>
+            <p>
+               <note place="margin">Any Commiſſi<g ref="char:EOLhyphen"/>oners may Sub<g ref="char:EOLhyphen"/>ſcribe.</note>Provided alſo, and We do hereby Signifie and Declare, That it is Our Royal Intention and Purpoſe in theſe Preſents, that any of you Our Commiſſioners may be Subſcribers; and the reſt of you Our Commiſſioners, or ſo many of you as aforeſaid, may take ſuch Subſcriptions from any of you, and Receive the Money, and do all other Things thereupon, as are hereby directed to be done in the Caſe of any other Subſcribers, any thing beforementioned to the Con<g ref="char:EOLhyphen"/>trary notwithſtanding.</p>
+            <p>Provided Nevertheleſs, that where any of you Our ſaid Commiſſioners ſhall be Subſcribers, ſuch Subſcriptions ſhall be made before, and be Atteſted in the Books by ſome other of you Our ſaid Commiſſioners, who are to give Receipts for the ſame.</p>
+            <p>
+               <note place="margin">When Inrolled.</note>And Laſtly, Our Pleaſure is, That theſe Preſents ſhall be Inrolled in the Office of the Auditor of the Receipt, and Recorded in the Office of the Clerk of the Pells in Our <hi>Exchequer,</hi> and theſe Preſents, or the Entry, Ex<g ref="char:EOLhyphen"/>emplification or Inrollment thereof, ſhall be to you, and every of you, and all others herein Concerned, a ſufficient Warrant and Diſcharge for all, and whatſoever Matters and Things ſhall be Done, Executed or Performed in pur<g ref="char:EOLhyphen"/>ſuance of the ſame, or of Our Pleaſure therein declared. <hi>In Witneſs</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
